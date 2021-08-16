@@ -1,0 +1,1 @@
+Essa função serve para detectar se uma palavra é um palíndromo ou não :)
